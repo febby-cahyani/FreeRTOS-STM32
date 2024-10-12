@@ -17,7 +17,7 @@ Software Requirements
 2. FreeRTOS
 
 Cara Kerja :
-- Sistem terus memantau button menggunakan sinyal decounced. Status button mengontrol apakah sistem beroperasi dalam mode "LED blink" atau mode "Indikator nilai ADC".
+- Sistem terus memantau button menggunakan sinyal debounced. Status button mengontrol apakah sistem beroperasi dalam mode "LED blink" atau mode "Indikator nilai ADC".
 - Data input analog dibaca secara berkala. dikonversi menjadi nilai digital oleh ADC, lalu disimpan dalam variable global untuk diakses oleh task LED dan UART.
 - Jika button ditekan, semua LED berkedip. Jika button tidak ditekan, LED menyala sesuai dengan nilai ADC.
 - sistem akan mengirimkan hasil pembacaan status button, angka "1" akan muncul pembacaan tegangan ADC, dan angka "2" akan menampilkan kata "HELLO WORLD" ke perangkat yang terhubung melalui UART.
