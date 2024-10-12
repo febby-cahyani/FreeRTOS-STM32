@@ -3,6 +3,7 @@ Proyek ini menunjukkan penggunaan FreeRTOS pada mikrokontroler STM32F103C8T6 unt
 
 Diagram Task
 
+![diagram task](https://github.com/user-attachments/assets/7f98999a-78df-44ca-911e-e0b99c56135a)
 
 Hardware Requirements
 1. STM32F103C8T6
