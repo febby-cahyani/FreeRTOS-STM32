@@ -3,11 +3,11 @@ Proyek ini menunjukkan penggunaan FreeRTOS pada mikrokontroler STM32F103C8T6 unt
 
 Pinout Hardware
 
-![PINOUT FreeRTOS Hardware](https://github.com/user-attachments/assets/54a68145-6930-4b8c-b669-d21423dbdab7)
+![PINOUT FreeRTOS Hardware](https://github.com/user-attachments/assets/e2f94e32-06d5-4356-b307-1d83ac9ebb7c)
 
 Hardware Result
 
-![FreeRTOS using STM32](https://github.com/user-attachments/assets/58d33677-1596-4b2e-829c-b552147f5a8c)
+![FreeRTOS using STM32](https://github.com/user-attachments/assets/95304953-fb30-4f89-af88-ab4ef416cdb7)
 
 Full Result
 
