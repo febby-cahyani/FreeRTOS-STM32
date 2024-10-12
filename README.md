@@ -5,14 +5,14 @@ Diagram Task :
 
 ![diagram task](https://github.com/user-attachments/assets/7f98999a-78df-44ca-911e-e0b99c56135a)
 
-Syarat Hardware :
+Hardware yang diperlukan :
 1. STM32F103C8T6
 2. Push button for input
 3. Input yang mendukung ADC seperti Potensiometer
 4. LED
 5. Koneksi UART
 
-Syarat Software :
+Software yang diperlukan :
 1. STM32CubeIDE
 2. FreeRTOS
 
