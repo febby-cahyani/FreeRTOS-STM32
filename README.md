@@ -33,3 +33,6 @@ Hasil Hardware :
 Hasil Keseluruhan :
 
 https://youtube.com/shorts/w-dF6c37Ar8?feature=share 
+
+
+cek
