@@ -34,5 +34,6 @@ Hasil Keseluruhan :
 
 https://youtube.com/shorts/w-dF6c37Ar8?feature=share 
 
+software tambahan yang dibutuhkan adalah software yang bisa membaca data serial seperti: Hterm, Putty, realterm,dll
 
 cek
