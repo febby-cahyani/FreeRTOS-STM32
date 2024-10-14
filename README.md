@@ -35,4 +35,4 @@ Hasil Keseluruhan :
 
 https://youtube.com/shorts/w-dF6c37Ar8?feature=share 
 
-Project ini dikerjakan di Politeknik Elektronika Negeri Surabaya dengan dosen pengampu Fernando Ardilla
+Project ini dikerjakan di Politeknik Elektronika Negeri Surabaya dengan dosen pengampu bapak Fernando Ardilla
