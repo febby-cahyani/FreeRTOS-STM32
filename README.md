@@ -15,6 +15,7 @@ Hardware yang diperlukan :
 Software yang diperlukan :
 1. STM32CubeIDE
 2. FreeRTOS
+3. Software yang bisa membaca data serial, seperti Hterm, Putty, realterm,dll
 
 Cara Kerja :
 - Sistem terus memantau button menggunakan sinyal debounced. Status button mengontrol apakah sistem beroperasi dalam mode "LED blink" atau mode "Indikator nilai ADC".
@@ -34,6 +35,4 @@ Hasil Keseluruhan :
 
 https://youtube.com/shorts/w-dF6c37Ar8?feature=share 
 
-software tambahan yang dibutuhkan adalah software yang bisa membaca data serial seperti: Hterm, Putty, realterm,dll
-
-cek
+Project ini dikerjakan di Politeknik Elektronika Negeri Surabaya dengan dosen pengampu Fernando Ardilla
